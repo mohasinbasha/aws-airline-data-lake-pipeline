@@ -1,0 +1,6 @@
+flight_id,airline,source,destination,date,status,price
+1,IndiGo,BLR,DEL,2024-07-01,OnTime,5200
+2,AirIndia,DEL,MUM,2024-07-01,Delayed,5700
+3,SpiceJet,MUM,COK,2024-07-01,OnTime,4900
+4,IndiGo,DEL,BLR,2024-07-01,Canceled,6000
+5,Vistara,COK,DEL,2024-07-02,OnTime,5400
